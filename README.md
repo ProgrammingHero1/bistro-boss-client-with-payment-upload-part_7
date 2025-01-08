@@ -1,8 +1,8 @@
-#  Bistro Boss Client With Payment
+#  Bistro Boss Client With Payment. 
 
 Server Repo Link : [Bistro Boss Server with Payment](https://github.com/ProgrammingHero1/bistro-boss-server-with-payment-part_7)
 
-## What We Did Today
+## What We Did Today. 
 
 - **Module Overview and Create Payment Route**: An introduction to the payment module and the creation of a new route for handling payments.
 - **Install Stripe, Stripe for React, and Create Card Element**: Setting up Stripe and integrating it with our React application to handle card elements.
